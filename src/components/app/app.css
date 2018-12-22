@@ -1,0 +1,38 @@
+.boss{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.center{
+
+   position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.blockfor{
+    width: 100%;
+    display: flex;
+
+    margin-right:30%;
+
+}
+.brick{
+    transform: translate(+10%);
+}
+.blockfor2{
+    transform: translate(+10%);
+}
+body{
+    background-color: #37383D;
+}
+.headDiv{
+    height: 100px;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.welcome{
+    color: #0cc5fc;
+}

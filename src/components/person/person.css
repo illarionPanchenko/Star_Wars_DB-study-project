@@ -1,0 +1,44 @@
+.container-person{
+    width: 61%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+
+    margin-top: 20px;
+
+}
+.person-box{
+    width:80%;
+    height:250px;
+    background-color: #27282B;
+    border-radius: 10px;
+    box-shadow: 0 0 10px midnightblue;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image-2{
+    width: 180px;
+    height: 230px;
+    border-radius:10px;
+
+    box-shadow: 0 0 10px midnightblue;
+}
+.text-box{
+
+}
+.select{
+    color: whitesmoke;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(+50%,+50%);
+}
+.spinner{
+    width: 100xp;
+    height: 100px;
+    background-color: red;
+
+}

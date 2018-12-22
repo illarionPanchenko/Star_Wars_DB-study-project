@@ -1,0 +1,32 @@
+.random-planet{
+    width:100%;
+    height:200px;
+    background-color: #27282B;
+    border-radius: 10px;
+    box-shadow: 0 0 10px midnightblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+}
+.container{
+    width: 100%;
+
+    margin-top: 30px;
+    padding: 0;
+    transform: translate(-9%);
+}
+.planet-text{
+    color:white;
+}
+.image{
+    background-color: black;
+    width: 180px;
+    height: 180px;
+    border-radius:10px;
+    margin: 20px;
+}
+.text{
+
+    margin-left:100px;
+}

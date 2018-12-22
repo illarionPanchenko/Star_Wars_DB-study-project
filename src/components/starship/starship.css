@@ -1,0 +1,30 @@
+.container-starship{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+
+}
+.starship-box{
+    border-radius:10px;
+    background-color: #27282B;
+    box-shadow: 0 0 10px midnightblue;
+    width: 84%;
+    transform: translate(3%);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.starshipText-box{
+ margin: 15px;
+}
+.image-5{
+    width:300px;
+    border-radius:10px;
+
+    box-shadow: 0 0 10px midnightblue;
+    margin: 10px;
+
+}

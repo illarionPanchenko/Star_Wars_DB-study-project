@@ -1,0 +1,26 @@
+.header{
+    justify-content: space-around;
+    height: 70px;
+    align-items: center;
+    background-color: #27282B;
+    box-shadow: 0 0 10px midnightblue;
+}
+h1{
+    color:lightgray;
+}
+.h3{
+    color:lightgray;
+    font-size: 36px;
+}
+.h3:hover{
+    color: cornflowerblue;
+}
+.btnOrange{
+    background-color: cornflowerblue;
+}
+.btnOrange:hover{
+    background-color: orange;
+}
+.btn-secondary:hover{
+    color: cornflowerblue;
+}

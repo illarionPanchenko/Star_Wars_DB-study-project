@@ -1,0 +1,32 @@
+.nameList{
+    width:80%;
+
+    background-color: #27282B;
+    border-radius: 10px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.block1{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.list-group{
+    margin-top: 20px;
+    width: 30%;
+    box-shadow: 0 0 10px midnightblue;
+}
+.list-group-item{
+    background-color: #27282B;
+    color:whitesmoke;
+    cursor: pointer;
+
+}
+.list-group-item:hover{
+    color:cornflowerblue;
+}
